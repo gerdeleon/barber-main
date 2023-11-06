@@ -1,0 +1,61 @@
+h2  {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.logoNav{
+    width: 60px;
+    height: 50px;
+}
+.navbar {
+    background-color: #ECE4D0 !important;
+    color: #002D5A !important;
+}
+.navbar a {
+    color: #002D5A !important;
+}
+.pt-4 p{
+    text-align: center;
+}
+.carousel-control-next{
+    margin-right: 200px;
+}
+.carousel-control-prev{
+    margin-left: 200px;
+}
+.carousel-inner{
+    box-shadow: .5px .5px 100px #000F30;
+}
+#contacto {
+    background-color: #ECE4D0 !important;
+    color: #000F30 !important;
+}
+#contacto a{
+    text-decoration: none;
+    color: #000F30 !important;
+}
+.container h2{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#nCortes{
+    margin-bottom: 10px;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+   justify-self: center;
+}
+
+.navbar span {
+    color: #000F30 !important;
+}
+
+.form button {
+    background-color: #000F30;
+    border: none;
+}
+.form button:hover{
+    background-color:#002D5A;
+}
